@@ -1,0 +1,22 @@
+{
+  "name": "dreamapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "idna-uts46-hx": "^6.0.5",
+    "openai": "^4.0.0",
+    "punycode": "^2.3.1"
+  }
+}
